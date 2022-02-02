@@ -60,15 +60,15 @@ p {
 a {
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
+  color: white;
 }
 
 .btn-main {
   background-color: B8405E;
   border-radius: 5px;
   color: EEE6CE;
-  margin: 20 20 20 20;
+  margin: 30px 170px 0 170px;
   padding: 20px;
-  position: relative;
 }
 ul {
   list-style: none;
