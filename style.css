@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+.main-div {
+  margin: 60px auto;
+  padding-top: 10px;
+  width: 700px;
+}
+
+.card {
+  padding: 40px 20px;
+  margin: 25px auto;
+  background-color: rgb(250, 250, 250);
+  box-shadow: 5px 5px 8px rgba(200, 200, 200, 0.7);
+  border-radius: 5px;
+  text-align: center;
+}
+
+.title {
+  position: relative;
+  top: -105px;
+  height: 100px;
+  margin-bottom: -50px;
+}
+
+img {
+  width: 150px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: 313552;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: B8405E;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: 2EB086;
+  font-size: xx-large;
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(100, 100, 100);
+  margin: 30px 60px;
+  text-align: center;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.btn-main {
+  background-color: B8405E;
+  border-radius: 5px;
+  color: EEE6CE;
+  margin: 20 20 20 20;
+  padding: 20px;
+  position: relative;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+}
+
+ul, li{
+  margin: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+i {
+  font-size: 90px;
+  margin: 0 30px;
+  color: B8405E;
+}
+
+#profile-pic {
+  border-radius: 50%;
+}
+
+#picto {
+  position: absolute;
+  top: 0px;
+  right: 236px;
+  width: 50px;
+  border-radius: 50%;
+}
